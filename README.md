@@ -4,3 +4,5 @@ la idea del proyeto es crear una una app de casino que para su comercio donde la
 ## juegos disponibles
 
 * BlackJack
+
+##### thank's Saul Costa  https://dev.to/nexttech/build-a-blackjack-command-line-game-3o4b
